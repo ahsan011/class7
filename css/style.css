@@ -1,0 +1,104 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.one {
+    margin: 18px 0px;
+}
+.banner{
+	background: url(../img/banner.png) no-repeat;
+    background-size: cover;
+    padding: 26px 0px;
+}
+.two{
+	text-align: center;
+    display: block;
+    margin: 0 auto;
+
+}
+.two h2{
+	font-size: 105px;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 2px;
+
+}
+.two span {
+	display: block;
+    border-bottom: 2px solid #15a4fa;
+    width: 83%;
+    margin: 5px auto;
+
+}
+.two p{
+	color: antiquewhite;
+    font-size: 18px;
+    letter-spacing: 1px;
+
+}
+.btn{
+	padding: 8px 20px;
+    background: transparent;
+    border: 1px solid #15a4fa;
+    margin: 30px 0px;
+    color: aliceblue;
+    font-size: 16px;
+
+}
+
+.services{
+	
+	margin: 0 auto;
+    text-align: center;
+    padding: 26px 0px;
+
+}
+.three{
+	padding: 17px;
+    color: #2d3950;
+
+}
+.three h2{
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+	
+}
+.five{
+	    margin: 16px -15px;
+}
+.six{
+
+}
+.six ul{
+	list-style: none;
+    display: inline-block;
+}
+.six ul li{
+	display: inline;
+    margin: 4px 5px;
+    padding: 15px;
+}
+	
+}
+
+/* media query */
+
+/* mobile device */
+@media(min-width: 0px) and (max-width:500px ){
+	
+
+}
+/* small device*/
+@media(min-width: 501px) and (max-width:768px ){
+	
+
+}
+/* desktop,laptop,notebook*/
+@media(min-width: 768.01px) and (max-width:1200px ){
+
+}
+/*large device*/
+@media(min-width: 1201px){
+
+}
